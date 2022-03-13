@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@babel/preset-typescript": "^7.16.7",
+    "@types/axios": "^0.14.0",
+    "@types/js-cookie": "^3.0.1",
+    "@types/react-router-dom": "^5.3.3",
+    "@typescript-eslint/eslint-plugin": "^5.14.0",
+    "@typescript-eslint/parser": "^5.14.0",
+    "eslint-config-standard-with-typescript": "^21.0.1"
+  }
+}
